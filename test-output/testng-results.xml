@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-25T09:53:45Z" name="Default suite" finished-at="2024-04-25T09:54:04Z" duration-ms="18101">
+    <groups>
+    </groups>
+    <test started-at="2024-04-25T09:53:45Z" name="Default test" finished-at="2024-04-25T09:54:04Z" duration-ms="18101">
+      <class name="com.in28minutes.webdriver.basics.form.FormElementSelectTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.in28minutes.webdriver.basics.form.FormElementSelectTest@3daf7722]" started-at="2024-04-25T09:53:45Z" name="beforeTest" finished-at="2024-04-25T09:53:47Z" duration-ms="1358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="setValueForMultipleSelectBoxTest()[pri:0, instance:com.in28minutes.webdriver.basics.form.FormElementSelectTest@3daf7722]" started-at="2024-04-25T09:53:47Z" name="setValueForMultipleSelectBoxTest" finished-at="2024-04-25T09:54:03Z" duration-ms="16512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setValueForMultipleSelectBoxTest -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.in28minutes.webdriver.basics.form.FormElementSelectTest@3daf7722]" started-at="2024-04-25T09:54:03Z" name="afterTest" finished-at="2024-04-25T09:54:04Z" duration-ms="217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.in28minutes.webdriver.basics.form.FormElementSelectTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
